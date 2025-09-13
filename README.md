@@ -25,8 +25,8 @@ This repository contains a lab report on **Windows PowerShell**, demonstrating i
 - Task automation for administration  
 - Security analysis using PowerShell  
 
-## 📂 Contents
-- `Lab_Report_Windows_PowerShell.pdf` – Detailed lab report
+## 📂 link of file
+[click here ](https://github.com/NIMRAA3/Windows-PowerShell-Lab/blob/main/Lab_Report_Windows_PowerShell.pdf)
 
 ## 📌 Achievement 
 *"Completed lab on Windows PowerShell, gaining hands-on experience with cmdlets, system monitoring, process investigation, and automation for security tasks"*.
